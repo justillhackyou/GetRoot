@@ -1,0 +1,18 @@
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+app/build/
+profile-core/build/
+local.properties
+.DS_Store
+__pycache__
+target/
+*.jks
+*.keystore
+/devices
+/src/.codex/config.toml
+
+# Keep prebuilt native libraries for seamless build
+!app/src/main/jniLibs/**
